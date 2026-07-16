@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+.tituloimagem{
+    display: flex;
+}
+.titulo{
+    margin-left: -35px;
+}
+.titulo p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: -15px;
+}
